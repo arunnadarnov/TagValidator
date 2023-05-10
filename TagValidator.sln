@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagValidator", "TagValidator.csproj", "{2DB9A6A3-6076-49F9-BB5C-9F710AB66221}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DB9A6A3-6076-49F9-BB5C-9F710AB66221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB9A6A3-6076-49F9-BB5C-9F710AB66221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB9A6A3-6076-49F9-BB5C-9F710AB66221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB9A6A3-6076-49F9-BB5C-9F710AB66221}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA58E86C-1DF4-4A2E-9645-E7FC616D9206}
+	EndGlobalSection
+EndGlobal
